@@ -1,0 +1,15 @@
+C:\Users\vgj24\source\repos\TicTacToeV\bin\Debug\net6.0\TicTacToeV.exe
+C:\Users\vgj24\source\repos\TicTacToeV\bin\Debug\net6.0\TicTacToeV.deps.json
+C:\Users\vgj24\source\repos\TicTacToeV\bin\Debug\net6.0\TicTacToeV.runtimeconfig.json
+C:\Users\vgj24\source\repos\TicTacToeV\bin\Debug\net6.0\TicTacToeV.dll
+C:\Users\vgj24\source\repos\TicTacToeV\bin\Debug\net6.0\ref\TicTacToeV.dll
+C:\Users\vgj24\source\repos\TicTacToeV\bin\Debug\net6.0\TicTacToeV.pdb
+C:\Users\vgj24\source\repos\TicTacToeV\obj\Debug\net6.0\TicTacToeV.csproj.AssemblyReference.cache
+C:\Users\vgj24\source\repos\TicTacToeV\obj\Debug\net6.0\TicTacToeV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vgj24\source\repos\TicTacToeV\obj\Debug\net6.0\TicTacToeV.AssemblyInfoInputs.cache
+C:\Users\vgj24\source\repos\TicTacToeV\obj\Debug\net6.0\TicTacToeV.AssemblyInfo.cs
+C:\Users\vgj24\source\repos\TicTacToeV\obj\Debug\net6.0\TicTacToeV.csproj.CoreCompileInputs.cache
+C:\Users\vgj24\source\repos\TicTacToeV\obj\Debug\net6.0\TicTacToeV.dll
+C:\Users\vgj24\source\repos\TicTacToeV\obj\Debug\net6.0\ref\TicTacToeV.dll
+C:\Users\vgj24\source\repos\TicTacToeV\obj\Debug\net6.0\TicTacToeV.pdb
+C:\Users\vgj24\source\repos\TicTacToeV\obj\Debug\net6.0\TicTacToeV.genruntimeconfig.cache
